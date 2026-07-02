@@ -1,6 +1,6 @@
 # Esprinet AI Tools 🚀
 
-Welcome to the official repository for **Esprinet's** local Artificial Intelligence tools. This space is designed to host practical applications built to run 100% locally on user devices, unlocking the full potential of next-generation **Copilot+ PCs** powered by **Intel® Core™ Ultra** processors.
+Welcome to the repository for **Esprinet Spain** local Artificial Intelligence tools. This space is designed to host practical applications built to run 100% locally on user devices, unlocking the full potential of next-generation **Copilot+ PCs** powered by **Intel® Core™ Ultra** processors.
 
 Our goal is to showcase real-world enterprise use cases where moving AI workloads to the edge delivers immediate, tangible business advantages:
 
