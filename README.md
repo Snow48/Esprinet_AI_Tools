@@ -63,3 +63,5 @@ As you deploy and test these tools with your clients, your hands-on experience i
 * **Have an Idea?** If you think of a new feature, a new local AI use case, or optimization ideas for Intel hardware, we want to hear it.
 
 To share your feedback, report problems, or if you require custom adaptations for end-customer corporate projects, please **open an Issue** here on GitHub or reach out directly to your Esprinet Business Development team.
+
+✉️ david.blasco@esprinet.com
